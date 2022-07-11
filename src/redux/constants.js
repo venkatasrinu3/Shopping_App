@@ -1,0 +1,3 @@
+export const STACK_NAVIGATION = "STACK_NAVIGATION"
+export const ADD_CATEGORY = "ADD_CATEGORY"
+export const GET_PRODUCTS = "GET_PRODUCTS"
